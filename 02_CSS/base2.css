@@ -1,0 +1,15 @@
+.cont{
+    background-color: black;
+    color: green;
+    width: 400px;
+    height:4rem;
+    overflow: auto;
+    }
+.small{
+    list-style-type:lower-roman;
+    font-weight: normal;
+}
+.big{
+    list-style-type: upper-roman;
+    font-weight: bold; 
+}
